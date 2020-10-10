@@ -14,10 +14,13 @@ namespace Collections
             string file_path = @".\Pop by Largest Final.csv";
             CsvReader reader = new CsvReader(file_path);
 
-            Country[] countries = reader.readFirstNCountries(10);
+            List<Country> countries = reader.ReadAllCountries();
 
-            foreach (Country c in countries)
-                Console.WriteLine($"{PopulationFormatter.FormatPopulation(c.Population).PadLeft(15)} : {c.Name}");
+            foreach (Country country in countries)
+            {
+                Console.WriteLine($"{PopulationFormatter.FormatPopulation(country.Population).PadLeft(15)}: {country.Name}");
+            }
+            Console.WriteLine(countries.Count);
         }
     }
 }
