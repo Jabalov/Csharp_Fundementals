@@ -27,9 +27,8 @@ namespace Collections
 
                 string csvLine;
                 while ((csvLine = sr.ReadLine()) != null)
-                {
                     countries.Add(ReadCountryFromCsvLine(csvLine));
-                }
+
             }
 
             return countries;
@@ -42,6 +41,7 @@ namespace Collections
             string code;
             string region;
             string popText;
+
             switch (parts.Length)
             {
                 case 4:
