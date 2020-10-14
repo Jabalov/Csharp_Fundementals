@@ -21,6 +21,7 @@ namespace Collections
             //     Console.WriteLine($"{PopulationFormatter.FormatPopulation(country.Population).PadLeft(15)}: {country.Name}");
             // }
             // Console.WriteLine(countries.Count);
+
             Console.WriteLine("Which country code do you want to look up? ");
             string userChoice = Console.ReadLine();
 
