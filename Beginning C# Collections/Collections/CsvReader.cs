@@ -16,6 +16,19 @@ namespace Collections
             this._csvFilePath = csvFilePath;
         }
 
+        public void RemoveCommaCountries(List<Country> countries)
+        {
+            // This removes countries with commas using the RemoveAll() method
+            countries.RemoveAll(x => x.Name.Contains(','));
+
+            // // this removes countries with commas in a for loop (correctly, counting backwards)
+            // for (int i=countries.Count-1; i>=0; i--)
+            // {
+            // 	if (countries[i].Name.Contains(','))
+            // 		countries.RemoveAt(i);
+            // }
+        }
+
         public Dictionary<string, Country> ReadAllCountries()
         {
             var countries = new Dictionary<string, Country>();
@@ -68,7 +81,5 @@ namespace Collections
             int.TryParse(popText, out int population);
             return new Country(name, code, region, population);
         }
-
-
     }
 }
