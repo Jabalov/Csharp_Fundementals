@@ -36,7 +36,6 @@ namespace ACM.BLTest
         {
             var c1 = new Customer();
             var c2 = new Customer();
-            Assert.AreEqual(Customer.InsntanceCount, 2);
         }
 
         [TestMethod]
