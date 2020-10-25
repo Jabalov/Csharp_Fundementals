@@ -16,7 +16,7 @@ namespace Collections
 
             List<Country> countries = reader.ReadAllCountries();
 
-            foreach (var country in countries.Take(10).OrderBy(x => x.Population))
+            foreach (var country in countries.Take(20).Where(x => !x.Name.Contains(',')))
             {
                 Console.WriteLine($"{PopulationFormatter.FormatPopulation(country.Population).PadLeft(15)}: {country.Name}");
 
