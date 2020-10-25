@@ -1,6 +1,8 @@
-﻿namespace ACM.BL
+﻿using Acme.Common;
+
+namespace ACM.BL
 {
-    public class Product : EntityBase
+    public class Product : EntityBase, ILoggable
     {
         public Product()
         {
@@ -14,7 +16,21 @@
         public decimal? CurrentPrice { get; set; }
         public string ProductDescription { get; set; }
         public int ProductId { get; private set; }
-        public string ProductName { get; set; }
+        private string _productName;
+        public string ProductName 
+        { 
+            get 
+            {
+                return _productName.InsertSpace();
+            } 
+            set 
+            { 
+                _productName = value; 
+            } 
+        }
+
+        public string Log() =>
+        $"{ProductId}: {ProductName} Detail: {ProductDescription} Status: {EntityState.ToString()}";
         public override string ToString() => ProductName;
 
         public override bool Validate()

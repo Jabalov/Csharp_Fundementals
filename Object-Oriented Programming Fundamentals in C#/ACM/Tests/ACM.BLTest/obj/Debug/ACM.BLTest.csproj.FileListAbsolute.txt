@@ -14,3 +14,5 @@ C:\Users\user\Desktop\SelfStudy\C# fundementals\Object-Oriented Programming Fund
 C:\Users\user\Desktop\SelfStudy\C# fundementals\Object-Oriented Programming Fundamentals in C#\ACM\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.csproj.CopyComplete
 C:\Users\user\Desktop\SelfStudy\C# fundementals\Object-Oriented Programming Fundamentals in C#\ACM\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.dll
 C:\Users\user\Desktop\SelfStudy\C# fundementals\Object-Oriented Programming Fundamentals in C#\ACM\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.pdb
+C:\Users\user\Desktop\SelfStudy\C# fundementals\Object-Oriented Programming Fundamentals in C#\ACM\Tests\ACM.BLTest\bin\Debug\Acme.Common.dll
+C:\Users\user\Desktop\SelfStudy\C# fundementals\Object-Oriented Programming Fundamentals in C#\ACM\Tests\ACM.BLTest\bin\Debug\Acme.Common.pdb
