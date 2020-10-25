@@ -4,9 +4,6 @@ namespace ACM.BL
 {
     public class ProductRepository
     {
-        /// <summary>
-        /// Retrieve one product.
-        /// </summary>
         public Product Retrieve(int productId)
         {
             Product product = new Product(productId);
@@ -21,7 +18,27 @@ namespace ACM.BL
         }
         public bool Save(Product product)
         {
-            return true;
+            var success = true;
+
+            if (product.HasChanges)
+            {
+                if (product.IsValid)
+                {
+                    if (product.IsNew)
+                    {
+                        // Call an Insert Stored Procedure
+                    }
+                    else
+                    {
+                        // Call an Update Stored Procedure
+                    }
+                }
+                else
+                {
+                    success = false;
+                }
+            }
+            return success;
         }
 
     }

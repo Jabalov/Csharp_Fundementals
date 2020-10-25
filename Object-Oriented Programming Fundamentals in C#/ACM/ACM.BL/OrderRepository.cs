@@ -9,6 +9,7 @@ namespace ACM.BL
         {
 
             Order order = new Order(orderId);
+
             if (orderId == 10)
             {
                 order.OrderDate = new DateTimeOffset(DateTime.Now.Year, 4, 14, 10, 00, 00,
@@ -17,11 +18,8 @@ namespace ACM.BL
 
             return order;
         }
-
-
         public bool Save(Order order)
         {
-
             return true;
         }
 
