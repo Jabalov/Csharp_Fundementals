@@ -12,7 +12,7 @@ namespace Features
         {
             Func<int, int> Square = x => x * x ;
 
-            Func<int, int, int> Add = (x, y) => x + y;
+            Func<int, int, int> Add = (x, y) => x + y;  
 
             Action<int> write = (x => Console.WriteLine(x));
 
