@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\SelfStudy\C# Fundementals\LINQ Fundamentals\LinqSamples\Cars\obj\Debug\netcoreapp3.1\Cars.csprojAssemblyReference.cache
+C:\Users\user\Desktop\SelfStudy\C# Fundementals\LINQ Fundamentals\LinqSamples\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SelfStudy\C# Fundementals\LINQ Fundamentals\LinqSamples\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfo.cs
+C:\Users\user\Desktop\SelfStudy\C# Fundementals\LINQ Fundamentals\LinqSamples\Cars\obj\Debug\netcoreapp3.1\Cars.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SelfStudy\C# Fundementals\LINQ Fundamentals\LinqSamples\Cars\bin\Debug\netcoreapp3.1\fuel.csv
+C:\Users\user\Desktop\SelfStudy\C# Fundementals\LINQ Fundamentals\LinqSamples\Cars\bin\Debug\netcoreapp3.1\Cars.exe
+C:\Users\user\Desktop\SelfStudy\C# Fundementals\LINQ Fundamentals\LinqSamples\Cars\bin\Debug\netcoreapp3.1\Cars.deps.json
+C:\Users\user\Desktop\SelfStudy\C# Fundementals\LINQ Fundamentals\LinqSamples\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.json
+C:\Users\user\Desktop\SelfStudy\C# Fundementals\LINQ Fundamentals\LinqSamples\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.dev.json
+C:\Users\user\Desktop\SelfStudy\C# Fundementals\LINQ Fundamentals\LinqSamples\Cars\bin\Debug\netcoreapp3.1\Cars.dll
+C:\Users\user\Desktop\SelfStudy\C# Fundementals\LINQ Fundamentals\LinqSamples\Cars\bin\Debug\netcoreapp3.1\Cars.pdb
+C:\Users\user\Desktop\SelfStudy\C# Fundementals\LINQ Fundamentals\LinqSamples\Cars\obj\Debug\netcoreapp3.1\Cars.dll
+C:\Users\user\Desktop\SelfStudy\C# Fundementals\LINQ Fundamentals\LinqSamples\Cars\obj\Debug\netcoreapp3.1\Cars.pdb
+C:\Users\user\Desktop\SelfStudy\C# Fundementals\LINQ Fundamentals\LinqSamples\Cars\obj\Debug\netcoreapp3.1\Cars.genruntimeconfig.cache
+C:\Users\user\Desktop\SelfStudy\C# Fundementals\LINQ Fundamentals\LinqSamples\Cars\bin\Debug\netcoreapp3.1\manufacturers.csv
