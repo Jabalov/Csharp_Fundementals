@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -8,6 +9,7 @@ namespace Cars
 {
     public class Car
     {
+        public int Id { get; set; }
         public int Year { get; set; }
         public string Manufacturer { get; set; }
         public string Name { get; set; }
@@ -34,5 +36,6 @@ namespace Cars
                 Combined = int.Parse(columns[7])
             };
         } */
+
     }
 }
