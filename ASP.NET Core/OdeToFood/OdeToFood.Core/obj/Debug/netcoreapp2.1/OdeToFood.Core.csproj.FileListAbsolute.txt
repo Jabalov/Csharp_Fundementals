@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\SelfStudy\aspnet-core-fundamentalsCODE\05\demos\demos\after\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.deps.json
+C:\Users\user\Desktop\SelfStudy\aspnet-core-fundamentalsCODE\05\demos\demos\after\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.dll
+C:\Users\user\Desktop\SelfStudy\aspnet-core-fundamentalsCODE\05\demos\demos\after\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+C:\Users\user\Desktop\SelfStudy\aspnet-core-fundamentalsCODE\05\demos\demos\after\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csprojAssemblyReference.cache
+C:\Users\user\Desktop\SelfStudy\aspnet-core-fundamentalsCODE\05\demos\demos\after\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SelfStudy\aspnet-core-fundamentalsCODE\05\demos\demos\after\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfo.cs
+C:\Users\user\Desktop\SelfStudy\aspnet-core-fundamentalsCODE\05\demos\demos\after\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SelfStudy\aspnet-core-fundamentalsCODE\05\demos\demos\after\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.dll
+C:\Users\user\Desktop\SelfStudy\aspnet-core-fundamentalsCODE\05\demos\demos\after\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.pdb
