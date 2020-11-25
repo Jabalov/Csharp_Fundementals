@@ -12,3 +12,39 @@ C:\Users\user\Desktop\SelfStudy\C# Fundementals\LINQ Fundamentals\LinqSamples\Ca
 C:\Users\user\Desktop\SelfStudy\C# Fundementals\LINQ Fundamentals\LinqSamples\Cars\obj\Debug\netcoreapp3.1\Cars.pdb
 C:\Users\user\Desktop\SelfStudy\C# Fundementals\LINQ Fundamentals\LinqSamples\Cars\obj\Debug\netcoreapp3.1\Cars.genruntimeconfig.cache
 C:\Users\user\Desktop\SelfStudy\C# Fundementals\LINQ Fundamentals\LinqSamples\Cars\bin\Debug\netcoreapp3.1\manufacturers.csv
+C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\LINQ Fundamentals\LinqSamples\Cars\bin\Debug\netcoreapp3.1\fuel.csv
+C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\LINQ Fundamentals\LinqSamples\Cars\bin\Debug\netcoreapp3.1\manufacturers.csv
+C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\LINQ Fundamentals\LinqSamples\Cars\bin\Debug\netcoreapp3.1\Cars.exe
+C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\LINQ Fundamentals\LinqSamples\Cars\bin\Debug\netcoreapp3.1\Cars.deps.json
+C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\LINQ Fundamentals\LinqSamples\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.json
+C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\LINQ Fundamentals\LinqSamples\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.dev.json
+C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\LINQ Fundamentals\LinqSamples\Cars\bin\Debug\netcoreapp3.1\Cars.dll
+C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\LINQ Fundamentals\LinqSamples\Cars\bin\Debug\netcoreapp3.1\Cars.pdb
+C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\LINQ Fundamentals\LinqSamples\Cars\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\LINQ Fundamentals\LinqSamples\Cars\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\LINQ Fundamentals\LinqSamples\Cars\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\LINQ Fundamentals\LinqSamples\Cars\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\LINQ Fundamentals\LinqSamples\Cars\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\LINQ Fundamentals\LinqSamples\Cars\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\LINQ Fundamentals\LinqSamples\Cars\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\LINQ Fundamentals\LinqSamples\Cars\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\LINQ Fundamentals\LinqSamples\Cars\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\LINQ Fundamentals\LinqSamples\Cars\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\LINQ Fundamentals\LinqSamples\Cars\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\LINQ Fundamentals\LinqSamples\Cars\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\LINQ Fundamentals\LinqSamples\Cars\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\LINQ Fundamentals\LinqSamples\Cars\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\LINQ Fundamentals\LinqSamples\Cars\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\LINQ Fundamentals\LinqSamples\Cars\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\LINQ Fundamentals\LinqSamples\Cars\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\LINQ Fundamentals\LinqSamples\Cars\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\LINQ Fundamentals\LinqSamples\Cars\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\LINQ Fundamentals\LinqSamples\Cars\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\LINQ Fundamentals\LinqSamples\Cars\obj\Debug\netcoreapp3.1\Cars.csprojAssemblyReference.cache
+C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\LINQ Fundamentals\LinqSamples\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\LINQ Fundamentals\LinqSamples\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfo.cs
+C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\LINQ Fundamentals\LinqSamples\Cars\obj\Debug\netcoreapp3.1\Cars.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\LINQ Fundamentals\LinqSamples\Cars\obj\Debug\netcoreapp3.1\Cars.csproj.CopyComplete
+C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\LINQ Fundamentals\LinqSamples\Cars\obj\Debug\netcoreapp3.1\Cars.dll
+C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\LINQ Fundamentals\LinqSamples\Cars\obj\Debug\netcoreapp3.1\Cars.pdb
+C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\LINQ Fundamentals\LinqSamples\Cars\obj\Debug\netcoreapp3.1\Cars.genruntimeconfig.cache

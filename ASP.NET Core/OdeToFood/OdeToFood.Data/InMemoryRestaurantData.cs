@@ -34,7 +34,7 @@ namespace OdeToFood.Data
         public Restaurant Update(Restaurant updatedRestaurant)
         {
             var restaurant = restaurants.SingleOrDefault(r => r.Id == updatedRestaurant.Id);
-            if(restaurant != null)
+            if (restaurant != null)
             {
                 restaurant.Name = updatedRestaurant.Name;
                 restaurant.Location = updatedRestaurant.Location;
@@ -59,11 +59,16 @@ namespace OdeToFood.Data
         public Restaurant Delete(int id)
         {
             var restaurant = restaurants.FirstOrDefault(r => r.Id == id);
-            if(restaurant != null)
+            if (restaurant != null)
             {
                 restaurants.Remove(restaurant);
             }
             return null;
+        }
+
+        public int GetCountOfRestaurants()
+        {
+            return restaurants.Count();
         }
     }
 }

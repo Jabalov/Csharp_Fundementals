@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1Kcmc0uvRdlnM67jkrSjgjRm/Rse2iFJOEZKxMMsT1H64kudKs/aWnNiy/I9EdVEMzvdZ6ydR/8NPlHIU29Sfg==",
+  "dgSpecHash": "nnEUgoKBltHSOjO/LIPowU9nxmeECc6Bthnmfb9LBKqX/8pvesfRrEjJ08w1uyG9eUMqFca4GTyOTiam7COL6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\SelfStudy\\C# Fundementals\\LINQ Fundamentals\\LinqSamples\\Cars\\Cars.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\SelfStudy\\.NET Fundmentals\\C# Fundmentals\\LINQ Fundamentals\\LinqSamples\\Cars\\Cars.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\entityframework\\6.4.0\\entityframework.6.4.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

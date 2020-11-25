@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Xml.Linq;  
+using System.Xml.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Data.Entity;
@@ -14,12 +14,41 @@ namespace Cars
     {
         static void Main(string[] args)
         {
-            CreateXml();
-            QueryXml();
+            Database.SetInitializer(new DropCreateDatabaseIfModelChanges<CarDb>());
+            InsertData();
+            QueryData();
         }
 
         private static void QueryData()
         {
+            var db = new CarDb();
+            //db.Database.Log = Console.WriteLine;
+
+            var query = db.Cars.GroupBy(c => c.Manufacturer)
+                                .Select(g => new
+                                {
+                                    Name = g.Key,
+                                    Cars = g.OrderByDescending(c => c.Combined).Take(2)
+                                });
+
+            var query2 = from car in db.Cars
+                         group car by car.Manufacturer into manufacturer
+                         select new
+                         {
+                             Name = manufacturer.Key,
+                             Cars = (from car in manufacturer
+                                     orderby car.Combined descending
+                                     select car).ToList()
+                         };
+
+            foreach (var group in query)
+            {
+                Console.WriteLine($"{group.Name}");
+                foreach (var car in group.Cars)
+                {
+                    Console.WriteLine($"\t{car.Name}: {car.Combined}");
+                }
+            }
 
         }
 
@@ -27,6 +56,15 @@ namespace Cars
         {
             var db = new CarDb();
             var cars = ProcessCar("fuel.csv");
+
+            if (!db.Cars.Any())
+            {
+                foreach (var car in cars)
+                {
+                    db.Cars.Add(car);
+                }
+                db.SaveChanges();
+            }
 
         }
 
@@ -37,7 +75,7 @@ namespace Cars
             var document = XDocument.Load("fuel.xml");
 
             var query =
-                from element in document.Element(ns + "Cars")?.Elements(ex + "Car")?? Enumerable.Empty<XElement>()
+                from element in document.Element(ns + "Cars")?.Elements(ex + "Car") ?? Enumerable.Empty<XElement>()
                 where element.Attribute("Manufacturer")?.Value == "BMW"
                 select element.Attribute("Name").Value;
 

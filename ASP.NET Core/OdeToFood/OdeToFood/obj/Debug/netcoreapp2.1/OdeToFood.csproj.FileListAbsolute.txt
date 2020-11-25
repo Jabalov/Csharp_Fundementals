@@ -85,3 +85,5 @@ C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\ASP.NET Core\OdeToFood\OdeToFoo
 C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\ASP.NET Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.dll
 C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\ASP.NET Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.pdb
 C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\ASP.NET Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.genruntimeconfig.cache
+C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\ASP.NET Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\_Summary.cshtml.g.cs
+C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\ASP.NET Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\Components\RestaurantCount\Default.cshtml.g.cs
