@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Downloads\\building-aspdotnet-core-mvc-web-applications\\07\\demos\\demos\\ASP.NET Core 3.0\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj": {}
+    "C:\\Users\\user\\Downloads\\building-aspdotnet-core-mvc-web-applications\\09\\demos\\demos\\ASP.NET Core 3.0\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Downloads\\building-aspdotnet-core-mvc-web-applications\\07\\demos\\demos\\ASP.NET Core 3.0\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj": {
+    "C:\\Users\\user\\Downloads\\building-aspdotnet-core-mvc-web-applications\\09\\demos\\demos\\ASP.NET Core 3.0\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Downloads\\building-aspdotnet-core-mvc-web-applications\\07\\demos\\demos\\ASP.NET Core 3.0\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Downloads\\building-aspdotnet-core-mvc-web-applications\\09\\demos\\demos\\ASP.NET Core 3.0\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
         "projectName": "BethanysPieShop",
-        "projectPath": "C:\\Users\\user\\Downloads\\building-aspdotnet-core-mvc-web-applications\\07\\demos\\demos\\ASP.NET Core 3.0\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
+        "projectPath": "C:\\Users\\user\\Downloads\\building-aspdotnet-core-mvc-web-applications\\09\\demos\\demos\\ASP.NET Core 3.0\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Downloads\\building-aspdotnet-core-mvc-web-applications\\07\\demos\\demos\\ASP.NET Core 3.0\\BethanysPieShop\\BethanysPieShop\\obj\\",
+        "outputPath": "C:\\Users\\user\\Downloads\\building-aspdotnet-core-mvc-web-applications\\09\\demos\\demos\\ASP.NET Core 3.0\\BethanysPieShop\\BethanysPieShop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -44,6 +44,14 @@
         "netcoreapp3.0": {
           "targetAlias": "netcoreapp3.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[3.0.0, )"
@@ -51,6 +59,14 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.0.0, )"
             }
