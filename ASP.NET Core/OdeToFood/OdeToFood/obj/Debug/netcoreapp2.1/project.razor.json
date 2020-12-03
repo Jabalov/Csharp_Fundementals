@@ -1850,18 +1850,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\user\\Desktop\\SelfStudy\\.NET Fundmentals\\ASP.NET Core\\OdeToFood\\OdeToFood\\Pages\\R2\\Details.cshtml",
-      "TargetPath": "Pages\\R2\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\user\\Desktop\\SelfStudy\\.NET Fundmentals\\ASP.NET Core\\OdeToFood\\OdeToFood\\Pages\\Restaurants\\NotFound.cshtml",
       "TargetPath": "Pages\\Restaurants\\NotFound.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\user\\Desktop\\SelfStudy\\.NET Fundmentals\\ASP.NET Core\\OdeToFood\\OdeToFood\\Pages\\R2\\Index.cshtml",
-      "TargetPath": "Pages\\R2\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -1875,18 +1865,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\user\\Desktop\\SelfStudy\\.NET Fundmentals\\ASP.NET Core\\OdeToFood\\OdeToFood\\Pages\\R2\\Delete.cshtml",
-      "TargetPath": "Pages\\R2\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\user\\Desktop\\SelfStudy\\.NET Fundmentals\\ASP.NET Core\\OdeToFood\\OdeToFood\\Pages\\Contact.cshtml",
       "TargetPath": "Pages\\Contact.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\user\\Desktop\\SelfStudy\\.NET Fundmentals\\ASP.NET Core\\OdeToFood\\OdeToFood\\Pages\\R2\\Edit.cshtml",
-      "TargetPath": "Pages\\R2\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -1927,11 +1907,6 @@
     {
       "FilePath": "c:\\Users\\user\\Desktop\\SelfStudy\\.NET Fundmentals\\ASP.NET Core\\OdeToFood\\OdeToFood\\Pages\\Restaurants\\List.cshtml",
       "TargetPath": "Pages\\Restaurants\\List.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\user\\Desktop\\SelfStudy\\.NET Fundmentals\\ASP.NET Core\\OdeToFood\\OdeToFood\\Pages\\R2\\Create.cshtml",
-      "TargetPath": "Pages\\R2\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
