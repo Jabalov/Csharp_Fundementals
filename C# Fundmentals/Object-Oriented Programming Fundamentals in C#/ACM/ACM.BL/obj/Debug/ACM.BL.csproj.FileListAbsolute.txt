@@ -1,9 +1,0 @@
-C:\Users\user\Desktop\SelfStudy\C# fundementals\Object-Oriented Programming Fundamentals in C#\ACM\ACM.BL\bin\Debug\ACM.BL.dll
-C:\Users\user\Desktop\SelfStudy\C# fundementals\Object-Oriented Programming Fundamentals in C#\ACM\ACM.BL\bin\Debug\ACM.BL.pdb
-C:\Users\user\Desktop\SelfStudy\C# fundementals\Object-Oriented Programming Fundamentals in C#\ACM\ACM.BL\obj\Debug\ACM.BL.csprojAssemblyReference.cache
-C:\Users\user\Desktop\SelfStudy\C# fundementals\Object-Oriented Programming Fundamentals in C#\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.CoreCompileInputs.cache
-C:\Users\user\Desktop\SelfStudy\C# fundementals\Object-Oriented Programming Fundamentals in C#\ACM\ACM.BL\obj\Debug\ACM.BL.dll
-C:\Users\user\Desktop\SelfStudy\C# fundementals\Object-Oriented Programming Fundamentals in C#\ACM\ACM.BL\obj\Debug\ACM.BL.pdb
-C:\Users\user\Desktop\SelfStudy\C# fundementals\Object-Oriented Programming Fundamentals in C#\ACM\ACM.BL\bin\Debug\Acme.Common.dll
-C:\Users\user\Desktop\SelfStudy\C# fundementals\Object-Oriented Programming Fundamentals in C#\ACM\ACM.BL\bin\Debug\Acme.Common.pdb
-C:\Users\user\Desktop\SelfStudy\C# fundementals\Object-Oriented Programming Fundamentals in C#\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.CopyComplete

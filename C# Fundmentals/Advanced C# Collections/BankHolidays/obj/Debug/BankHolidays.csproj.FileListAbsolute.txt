@@ -1,7 +1,0 @@
-C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\Advanced C# Collections\BankHolidays\bin\Debug\BankHolidays.exe.config
-C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\Advanced C# Collections\BankHolidays\bin\Debug\BankHolidays.exe
-C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\Advanced C# Collections\BankHolidays\bin\Debug\BankHolidays.pdb
-C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\Advanced C# Collections\BankHolidays\obj\Debug\BankHolidays.csprojAssemblyReference.cache
-C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\Advanced C# Collections\BankHolidays\obj\Debug\BankHolidays.csproj.CoreCompileInputs.cache
-C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\Advanced C# Collections\BankHolidays\obj\Debug\BankHolidays.exe
-C:\Users\user\Desktop\SelfStudy\.NET Fundmentals\C# Fundmentals\Advanced C# Collections\BankHolidays\obj\Debug\BankHolidays.pdb
