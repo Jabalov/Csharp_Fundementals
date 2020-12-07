@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\SelfStudy\C# fundementals\Object-Oriented Programming Fundamentals in C#\ACM\Acme.Common\bin\Debug\Acme.Common.dll
+C:\Users\user\Desktop\SelfStudy\C# fundementals\Object-Oriented Programming Fundamentals in C#\ACM\Acme.Common\bin\Debug\Acme.Common.pdb
+C:\Users\user\Desktop\SelfStudy\C# fundementals\Object-Oriented Programming Fundamentals in C#\ACM\Acme.Common\obj\Debug\Acme.Common.csprojAssemblyReference.cache
+C:\Users\user\Desktop\SelfStudy\C# fundementals\Object-Oriented Programming Fundamentals in C#\ACM\Acme.Common\obj\Debug\Acme.Common.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SelfStudy\C# fundementals\Object-Oriented Programming Fundamentals in C#\ACM\Acme.Common\obj\Debug\Acme.Common.dll
+C:\Users\user\Desktop\SelfStudy\C# fundementals\Object-Oriented Programming Fundamentals in C#\ACM\Acme.Common\obj\Debug\Acme.Common.pdb
