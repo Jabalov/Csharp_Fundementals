@@ -3565,23 +3565,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {},
+    "C:\\Users\\Jabal\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\SelfStudy\\.NET Fundmentals\\ASP.NET Core\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
+      "projectUniqueName": "C:\\Users\\Jabal\\Desktop\\SelfStudy\\.Net Framework\\ASP.NET Core\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
       "projectName": "OdeToFood.Data",
-      "projectPath": "C:\\Users\\user\\Desktop\\SelfStudy\\.NET Fundmentals\\ASP.NET Core\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\SelfStudy\\.NET Fundmentals\\ASP.NET Core\\OdeToFood\\OdeToFood.Data\\obj\\",
+      "projectPath": "C:\\Users\\Jabal\\Desktop\\SelfStudy\\.Net Framework\\ASP.NET Core\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
+      "packagesPath": "C:\\Users\\Jabal\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jabal\\Desktop\\SelfStudy\\.Net Framework\\ASP.NET Core\\OdeToFood\\OdeToFood.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jabal\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -3596,8 +3596,8 @@
         "netcoreapp2.1": {
           "targetAlias": "netcoreapp2.1",
           "projectReferences": {
-            "C:\\Users\\user\\Desktop\\SelfStudy\\.NET Fundmentals\\ASP.NET Core\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj": {
-              "projectPath": "C:\\Users\\user\\Desktop\\SelfStudy\\.NET Fundmentals\\ASP.NET Core\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj"
+            "C:\\Users\\Jabal\\Desktop\\SelfStudy\\.Net Framework\\ASP.NET Core\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj": {
+              "projectPath": "C:\\Users\\Jabal\\Desktop\\SelfStudy\\.Net Framework\\ASP.NET Core\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj"
             }
           }
         }
