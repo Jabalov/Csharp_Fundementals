@@ -8,11 +8,11 @@ namespace PersonRepository.Caching
 {
     public class CachingRepository : IPersonRepository
     {
-        private TimeSpan _cacheDuration = new TimeSpan(0, 0, 30);
+        private readonly TimeSpan _cacheDuration = new TimeSpan(0, 0, 30);
         private DateTime _dataDateTime;
         private IEnumerable<Person> _cachedItems;
 
-        private IPersonRepository _wrappedRepository;
+        private readonly IPersonRepository _wrappedRepository;
 
         public CachingRepository(IPersonRepository wrappedPersonRepository)
         {

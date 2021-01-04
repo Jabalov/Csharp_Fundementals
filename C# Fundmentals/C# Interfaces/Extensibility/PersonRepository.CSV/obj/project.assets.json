@@ -604,13 +604,12 @@
     },
     "PersonRepository.Interface/1.0.0": {
       "type": "project",
-      "path": "../../../before/Extensibility/PersonRepository.Interface/PersonRepository.Interface.csproj",
-      "msbuildProject": "../../../before/Extensibility/PersonRepository.Interface/PersonRepository.Interface.csproj"
+      "path": "../PersonRepository.Interface/PersonRepository.Interface.csproj",
+      "msbuildProject": "../PersonRepository.Interface/PersonRepository.Interface.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "C:\\Users\\Jabal\\Downloads\\using-csharp-interfacesCODE\\03\\demos\\after\\Extensibility\\PersonRepository.Interface\\PersonRepository.Interface.csproj",
       "NETStandard.Library >= 2.0.3",
       "PersonRepository.Interface >= 1.0.0",
       "System.Configuration.ConfigurationManager >= 4.5.0"
@@ -623,11 +622,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jabal\\Downloads\\using-csharp-interfacesCODE\\03\\demos\\after\\Extensibility\\PersonRepository.CSV\\PersonRepository.CSV.csproj",
+      "projectUniqueName": "C:\\Users\\Jabal\\Desktop\\SelfStudy\\.Net Framework\\C# Fundmentals\\C# Interfaces\\Extensibility\\PersonRepository.CSV\\PersonRepository.CSV.csproj",
       "projectName": "PersonRepository.CSV",
-      "projectPath": "C:\\Users\\Jabal\\Downloads\\using-csharp-interfacesCODE\\03\\demos\\after\\Extensibility\\PersonRepository.CSV\\PersonRepository.CSV.csproj",
+      "projectPath": "C:\\Users\\Jabal\\Desktop\\SelfStudy\\.Net Framework\\C# Fundmentals\\C# Interfaces\\Extensibility\\PersonRepository.CSV\\PersonRepository.CSV.csproj",
       "packagesPath": "C:\\Users\\Jabal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jabal\\Downloads\\using-csharp-interfacesCODE\\03\\demos\\after\\Extensibility\\PersonRepository.CSV\\obj\\",
+      "outputPath": "C:\\Users\\Jabal\\Desktop\\SelfStudy\\.Net Framework\\C# Fundmentals\\C# Interfaces\\Extensibility\\PersonRepository.CSV\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -648,11 +647,8 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\Jabal\\Downloads\\using-csharp-interfacesCODE\\03\\demos\\after\\Extensibility\\PersonRepository.Interface\\PersonRepository.Interface.csproj": {
-              "projectPath": "C:\\Users\\Jabal\\Downloads\\using-csharp-interfacesCODE\\03\\demos\\after\\Extensibility\\PersonRepository.Interface\\PersonRepository.Interface.csproj"
-            },
-            "C:\\Users\\Jabal\\Downloads\\using-csharp-interfacesCODE\\03\\demos\\before\\Extensibility\\PersonRepository.Interface\\PersonRepository.Interface.csproj": {
-              "projectPath": "C:\\Users\\Jabal\\Downloads\\using-csharp-interfacesCODE\\03\\demos\\before\\Extensibility\\PersonRepository.Interface\\PersonRepository.Interface.csproj"
+            "C:\\Users\\Jabal\\Desktop\\SelfStudy\\.Net Framework\\C# Fundmentals\\C# Interfaces\\Extensibility\\PersonRepository.Interface\\PersonRepository.Interface.csproj": {
+              "projectPath": "C:\\Users\\Jabal\\Desktop\\SelfStudy\\.Net Framework\\C# Fundmentals\\C# Interfaces\\Extensibility\\PersonRepository.Interface\\PersonRepository.Interface.csproj"
             }
           }
         }
@@ -691,16 +687,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1105",
-      "level": "Error",
-      "message": "Unable to find project information for 'C:\\Users\\Jabal\\Downloads\\using-csharp-interfacesCODE\\03\\demos\\after\\Extensibility\\PersonRepository.Interface\\PersonRepository.Interface.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\Users\\Jabal\\Downloads\\using-csharp-interfacesCODE\\03\\demos\\after\\Extensibility\\PersonRepository.Interface\\PersonRepository.Interface.csproj",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.0"
-      ]
-    }
-  ]
+  }
 }

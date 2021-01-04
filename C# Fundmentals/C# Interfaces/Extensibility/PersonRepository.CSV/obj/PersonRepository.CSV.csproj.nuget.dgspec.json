@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jabal\\Downloads\\using-csharp-interfacesCODE\\03\\demos\\after\\Extensibility\\PersonRepository.CSV\\PersonRepository.CSV.csproj": {}
+    "C:\\Users\\Jabal\\Desktop\\SelfStudy\\.Net Framework\\C# Fundmentals\\C# Interfaces\\Extensibility\\PersonRepository.CSV\\PersonRepository.CSV.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jabal\\Downloads\\using-csharp-interfacesCODE\\03\\demos\\after\\Extensibility\\PersonRepository.CSV\\PersonRepository.CSV.csproj": {
+    "C:\\Users\\Jabal\\Desktop\\SelfStudy\\.Net Framework\\C# Fundmentals\\C# Interfaces\\Extensibility\\PersonRepository.CSV\\PersonRepository.CSV.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jabal\\Downloads\\using-csharp-interfacesCODE\\03\\demos\\after\\Extensibility\\PersonRepository.CSV\\PersonRepository.CSV.csproj",
+        "projectUniqueName": "C:\\Users\\Jabal\\Desktop\\SelfStudy\\.Net Framework\\C# Fundmentals\\C# Interfaces\\Extensibility\\PersonRepository.CSV\\PersonRepository.CSV.csproj",
         "projectName": "PersonRepository.CSV",
-        "projectPath": "C:\\Users\\Jabal\\Downloads\\using-csharp-interfacesCODE\\03\\demos\\after\\Extensibility\\PersonRepository.CSV\\PersonRepository.CSV.csproj",
+        "projectPath": "C:\\Users\\Jabal\\Desktop\\SelfStudy\\.Net Framework\\C# Fundmentals\\C# Interfaces\\Extensibility\\PersonRepository.CSV\\PersonRepository.CSV.csproj",
         "packagesPath": "C:\\Users\\Jabal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jabal\\Downloads\\using-csharp-interfacesCODE\\03\\demos\\after\\Extensibility\\PersonRepository.CSV\\obj\\",
+        "outputPath": "C:\\Users\\Jabal\\Desktop\\SelfStudy\\.Net Framework\\C# Fundmentals\\C# Interfaces\\Extensibility\\PersonRepository.CSV\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -32,11 +32,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\Jabal\\Downloads\\using-csharp-interfacesCODE\\03\\demos\\after\\Extensibility\\PersonRepository.Interface\\PersonRepository.Interface.csproj": {
-                "projectPath": "C:\\Users\\Jabal\\Downloads\\using-csharp-interfacesCODE\\03\\demos\\after\\Extensibility\\PersonRepository.Interface\\PersonRepository.Interface.csproj"
-              },
-              "C:\\Users\\Jabal\\Downloads\\using-csharp-interfacesCODE\\03\\demos\\before\\Extensibility\\PersonRepository.Interface\\PersonRepository.Interface.csproj": {
-                "projectPath": "C:\\Users\\Jabal\\Downloads\\using-csharp-interfacesCODE\\03\\demos\\before\\Extensibility\\PersonRepository.Interface\\PersonRepository.Interface.csproj"
+              "C:\\Users\\Jabal\\Desktop\\SelfStudy\\.Net Framework\\C# Fundmentals\\C# Interfaces\\Extensibility\\PersonRepository.Interface\\PersonRepository.Interface.csproj": {
+                "projectPath": "C:\\Users\\Jabal\\Desktop\\SelfStudy\\.Net Framework\\C# Fundmentals\\C# Interfaces\\Extensibility\\PersonRepository.Interface\\PersonRepository.Interface.csproj"
               }
             }
           }
@@ -76,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\Jabal\\Downloads\\using-csharp-interfacesCODE\\03\\demos\\before\\Extensibility\\PersonRepository.Interface\\PersonRepository.Interface.csproj": {
+    "C:\\Users\\Jabal\\Desktop\\SelfStudy\\.Net Framework\\C# Fundmentals\\C# Interfaces\\Extensibility\\PersonRepository.Interface\\PersonRepository.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jabal\\Downloads\\using-csharp-interfacesCODE\\03\\demos\\before\\Extensibility\\PersonRepository.Interface\\PersonRepository.Interface.csproj",
+        "projectUniqueName": "C:\\Users\\Jabal\\Desktop\\SelfStudy\\.Net Framework\\C# Fundmentals\\C# Interfaces\\Extensibility\\PersonRepository.Interface\\PersonRepository.Interface.csproj",
         "projectName": "PersonRepository.Interface",
-        "projectPath": "C:\\Users\\Jabal\\Downloads\\using-csharp-interfacesCODE\\03\\demos\\before\\Extensibility\\PersonRepository.Interface\\PersonRepository.Interface.csproj",
+        "projectPath": "C:\\Users\\Jabal\\Desktop\\SelfStudy\\.Net Framework\\C# Fundmentals\\C# Interfaces\\Extensibility\\PersonRepository.Interface\\PersonRepository.Interface.csproj",
         "packagesPath": "C:\\Users\\Jabal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jabal\\Downloads\\using-csharp-interfacesCODE\\03\\demos\\before\\Extensibility\\PersonRepository.Interface\\obj\\",
+        "outputPath": "C:\\Users\\Jabal\\Desktop\\SelfStudy\\.Net Framework\\C# Fundmentals\\C# Interfaces\\Extensibility\\PersonRepository.Interface\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

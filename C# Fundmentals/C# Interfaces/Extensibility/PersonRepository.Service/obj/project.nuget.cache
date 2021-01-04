@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GCOHjGcYdAXr/jnuA9pnPH5odofzRAlY4NkmmF3SQKspMDulA2lzmgsMSgzB2Qm6TUkX63g76NqtiFEXh77ZNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jabal\\Desktop\\SelfStudy\\.Net Framework\\C# Fundmentals\\C# Interfaces\\Extensibility\\PersonRepository.Service\\PersonRepository.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jabal\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Jabal\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Jabal\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
