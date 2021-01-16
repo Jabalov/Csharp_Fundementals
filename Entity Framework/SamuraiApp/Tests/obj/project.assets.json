@@ -5718,7 +5718,8 @@
   },
   "packageFolders": {
     "C:\\Users\\Jabal\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
@@ -5730,7 +5731,8 @@
       "outputPath": "C:\\Users\\Jabal\\Desktop\\SelfStudy\\.Net Framework\\Entity Framework\\SamuraiApp\\Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\Jabal\\AppData\\Roaming\\NuGet\\NuGet.Config",

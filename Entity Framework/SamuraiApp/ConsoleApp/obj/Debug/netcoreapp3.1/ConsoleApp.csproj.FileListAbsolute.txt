@@ -64,3 +64,5 @@ C:\Users\Jabal\Desktop\SelfStudy\.Net Framework\Entity Framework\SamuraiApp\Cons
 C:\Users\Jabal\Desktop\SelfStudy\.Net Framework\Entity Framework\SamuraiApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
 C:\Users\Jabal\Desktop\SelfStudy\.Net Framework\Entity Framework\SamuraiApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
 C:\Users\Jabal\Desktop\SelfStudy\.Net Framework\Entity Framework\SamuraiApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
+C:\Users\Jabal\Desktop\SelfStudy\.Net Framework\Entity Framework\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Jabal\Desktop\SelfStudy\.Net Framework\Entity Framework\SamuraiApp\ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll

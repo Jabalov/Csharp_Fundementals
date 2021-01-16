@@ -7,7 +7,7 @@ namespace ConsoleApp
 {
     class Program
     {
-        private static SamuraiContext context = new SamuraiContext();
+        private static SamuraiContext _context = new SamuraiContext();
         static void Main(string[] args)
         {
             GetSamurais("Before Add");
@@ -19,13 +19,13 @@ namespace ConsoleApp
         private static void AddSamurai()
         {
             var samurai = new Samurai { Name = "Sampson" };
-            context.Samurais.Add(samurai);
-            context.SaveChanges();
+            _context.Samurais.Add(samurai);
+            _context.SaveChanges();
         }
 
         private static void GetSamurais(string text)
         {
-            var samurais = context.Samurais.ToList();
+            var samurais = _context.Samurais.ToList();
             Console.WriteLine($"{text}: Samurai count is {samurais.Count}");
             foreach (var samurai in samurais)
             {

@@ -14,7 +14,8 @@
         "outputPath": "C:\\Users\\Jabal\\Desktop\\SelfStudy\\.Net Framework\\Entity Framework\\SamuraiApp\\SamuraiApp.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\Jabal\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,6 +60,12 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
             }
           },
           "imports": [
@@ -90,7 +97,8 @@
         "outputPath": "C:\\Users\\Jabal\\Desktop\\SelfStudy\\.Net Framework\\Entity Framework\\SamuraiApp\\SamuraiApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\Jabal\\AppData\\Roaming\\NuGet\\NuGet.Config",

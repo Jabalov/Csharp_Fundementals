@@ -1,0 +1,16 @@
+C:\Users\Jabal\Desktop\SelfStudy\.Net Framework\RabbitMQ\Demo\Demo\bin\Debug\netcoreapp3.1\Demo.exe
+C:\Users\Jabal\Desktop\SelfStudy\.Net Framework\RabbitMQ\Demo\Demo\bin\Debug\netcoreapp3.1\Demo.deps.json
+C:\Users\Jabal\Desktop\SelfStudy\.Net Framework\RabbitMQ\Demo\Demo\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.json
+C:\Users\Jabal\Desktop\SelfStudy\.Net Framework\RabbitMQ\Demo\Demo\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.dev.json
+C:\Users\Jabal\Desktop\SelfStudy\.Net Framework\RabbitMQ\Demo\Demo\bin\Debug\netcoreapp3.1\Demo.dll
+C:\Users\Jabal\Desktop\SelfStudy\.Net Framework\RabbitMQ\Demo\Demo\bin\Debug\netcoreapp3.1\Demo.pdb
+C:\Users\Jabal\Desktop\SelfStudy\.Net Framework\RabbitMQ\Demo\Demo\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Jabal\Desktop\SelfStudy\.Net Framework\RabbitMQ\Demo\Demo\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Jabal\Desktop\SelfStudy\.Net Framework\RabbitMQ\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.csprojAssemblyReference.cache
+C:\Users\Jabal\Desktop\SelfStudy\.Net Framework\RabbitMQ\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfoInputs.cache
+C:\Users\Jabal\Desktop\SelfStudy\.Net Framework\RabbitMQ\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfo.cs
+C:\Users\Jabal\Desktop\SelfStudy\.Net Framework\RabbitMQ\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Jabal\Desktop\SelfStudy\.Net Framework\RabbitMQ\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CopyComplete
+C:\Users\Jabal\Desktop\SelfStudy\.Net Framework\RabbitMQ\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.dll
+C:\Users\Jabal\Desktop\SelfStudy\.Net Framework\RabbitMQ\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.pdb
+C:\Users\Jabal\Desktop\SelfStudy\.Net Framework\RabbitMQ\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.genruntimeconfig.cache
