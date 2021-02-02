@@ -1,0 +1,11 @@
+C:\Users\Dan\Desktop\Code\Before\LambdasAndDelegates\LambdasAndDelegates\bin\Debug\LambdasAndDelegates.exe.config
+C:\Users\Dan\Desktop\Code\Before\LambdasAndDelegates\LambdasAndDelegates\bin\Debug\LambdasAndDelegates.exe
+C:\Users\Dan\Desktop\Code\Before\LambdasAndDelegates\LambdasAndDelegates\bin\Debug\LambdasAndDelegates.pdb
+C:\Users\Dan\Desktop\Code\Before\LambdasAndDelegates\LambdasAndDelegates\obj\Debug\LambdasAndDelegates.exe
+C:\Users\Dan\Desktop\Code\Before\LambdasAndDelegates\LambdasAndDelegates\obj\Debug\LambdasAndDelegates.pdb
+C:\Users\Dan\Desktop\Code\After\LambdasAndDelegates\LambdasAndDelegates\bin\Debug\LambdasAndDelegates.exe.config
+C:\Users\Dan\Desktop\Code\After\LambdasAndDelegates\LambdasAndDelegates\obj\Debug\LambdasAndDelegates.exe
+C:\Users\Dan\Desktop\Code\After\LambdasAndDelegates\LambdasAndDelegates\obj\Debug\LambdasAndDelegates.pdb
+C:\Users\Dan\Desktop\Code\After\LambdasAndDelegates\LambdasAndDelegates\bin\Debug\LambdasAndDelegates.exe
+C:\Users\Dan\Desktop\Code\After\LambdasAndDelegates\LambdasAndDelegates\bin\Debug\LambdasAndDelegates.pdb
+C:\Users\Dan\Desktop\Code\After\LambdasAndDelegates\LambdasAndDelegates\obj\Debug\LambdasAndDelegates.csprojResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\Jabal\Desktop\SelfStudy\.Net Framework\Base Class\Working with Files and Streams in C#\DataProcessor\DataProcessor\bin\Debug\netcoreapp3.1\DataProcessor.exe
+C:\Users\Jabal\Desktop\SelfStudy\.Net Framework\Base Class\Working with Files and Streams in C#\DataProcessor\DataProcessor\bin\Debug\netcoreapp3.1\DataProcessor.deps.json
+C:\Users\Jabal\Desktop\SelfStudy\.Net Framework\Base Class\Working with Files and Streams in C#\DataProcessor\DataProcessor\bin\Debug\netcoreapp3.1\DataProcessor.runtimeconfig.json
+C:\Users\Jabal\Desktop\SelfStudy\.Net Framework\Base Class\Working with Files and Streams in C#\DataProcessor\DataProcessor\bin\Debug\netcoreapp3.1\DataProcessor.runtimeconfig.dev.json
+C:\Users\Jabal\Desktop\SelfStudy\.Net Framework\Base Class\Working with Files and Streams in C#\DataProcessor\DataProcessor\bin\Debug\netcoreapp3.1\DataProcessor.dll
+C:\Users\Jabal\Desktop\SelfStudy\.Net Framework\Base Class\Working with Files and Streams in C#\DataProcessor\DataProcessor\bin\Debug\netcoreapp3.1\DataProcessor.pdb
+C:\Users\Jabal\Desktop\SelfStudy\.Net Framework\Base Class\Working with Files and Streams in C#\DataProcessor\DataProcessor\obj\Debug\netcoreapp3.1\DataProcessor.csprojAssemblyReference.cache
+C:\Users\Jabal\Desktop\SelfStudy\.Net Framework\Base Class\Working with Files and Streams in C#\DataProcessor\DataProcessor\obj\Debug\netcoreapp3.1\DataProcessor.AssemblyInfoInputs.cache
+C:\Users\Jabal\Desktop\SelfStudy\.Net Framework\Base Class\Working with Files and Streams in C#\DataProcessor\DataProcessor\obj\Debug\netcoreapp3.1\DataProcessor.AssemblyInfo.cs
+C:\Users\Jabal\Desktop\SelfStudy\.Net Framework\Base Class\Working with Files and Streams in C#\DataProcessor\DataProcessor\obj\Debug\netcoreapp3.1\DataProcessor.csproj.CoreCompileInputs.cache
+C:\Users\Jabal\Desktop\SelfStudy\.Net Framework\Base Class\Working with Files and Streams in C#\DataProcessor\DataProcessor\obj\Debug\netcoreapp3.1\DataProcessor.dll
+C:\Users\Jabal\Desktop\SelfStudy\.Net Framework\Base Class\Working with Files and Streams in C#\DataProcessor\DataProcessor\obj\Debug\netcoreapp3.1\DataProcessor.pdb
+C:\Users\Jabal\Desktop\SelfStudy\.Net Framework\Base Class\Working with Files and Streams in C#\DataProcessor\DataProcessor\obj\Debug\netcoreapp3.1\DataProcessor.genruntimeconfig.cache
