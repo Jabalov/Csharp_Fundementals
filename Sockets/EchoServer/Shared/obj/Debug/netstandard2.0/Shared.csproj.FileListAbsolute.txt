@@ -1,0 +1,9 @@
+C:\Users\Jabal\Desktop\SelfStudy\C# Sockets\Sockets\Shared\bin\Debug\netstandard2.0\Shared.deps.json
+C:\Users\Jabal\Desktop\SelfStudy\C# Sockets\Sockets\Shared\bin\Debug\netstandard2.0\Shared.dll
+C:\Users\Jabal\Desktop\SelfStudy\C# Sockets\Sockets\Shared\bin\Debug\netstandard2.0\Shared.pdb
+C:\Users\Jabal\Desktop\SelfStudy\C# Sockets\Sockets\Shared\obj\Debug\netstandard2.0\Shared.csprojAssemblyReference.cache
+C:\Users\Jabal\Desktop\SelfStudy\C# Sockets\Sockets\Shared\obj\Debug\netstandard2.0\Shared.AssemblyInfoInputs.cache
+C:\Users\Jabal\Desktop\SelfStudy\C# Sockets\Sockets\Shared\obj\Debug\netstandard2.0\Shared.AssemblyInfo.cs
+C:\Users\Jabal\Desktop\SelfStudy\C# Sockets\Sockets\Shared\obj\Debug\netstandard2.0\Shared.csproj.CoreCompileInputs.cache
+C:\Users\Jabal\Desktop\SelfStudy\C# Sockets\Sockets\Shared\obj\Debug\netstandard2.0\Shared.dll
+C:\Users\Jabal\Desktop\SelfStudy\C# Sockets\Sockets\Shared\obj\Debug\netstandard2.0\Shared.pdb
