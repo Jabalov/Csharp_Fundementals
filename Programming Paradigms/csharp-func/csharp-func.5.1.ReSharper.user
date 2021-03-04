@@ -1,0 +1,226 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="CBBFCF44-2B7C-4BAE-A4C0-16991204E6EB/f:BigAbstraction.cs" caret="449" fromTop="9" />
+      <File id="CBBFCF44-2B7C-4BAE-A4C0-16991204E6EB/f:Timekeeper.cs" caret="309" fromTop="14" />
+      <File id="CBBFCF44-2B7C-4BAE-A4C0-16991204E6EB/f:Extensions.cs" caret="1098" fromTop="20" />
+      <File id="CBBFCF44-2B7C-4BAE-A4C0-16991204E6EB/f:Program.cs" caret="233" fromTop="4" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="CBBFCF44-2B7C-4BAE-A4C0-16991204E6EB/f:Program.cs" caret="3473" fromTop="0" />
+      <File id="CBBFCF44-2B7C-4BAE-A4C0-16991204E6EB/f:Program.cs" caret="3473" fromTop="0" />
+      <File id="CBBFCF44-2B7C-4BAE-A4C0-16991204E6EB/f:Program.cs" caret="3473" fromTop="7" />
+      <File id="CBBFCF44-2B7C-4BAE-A4C0-16991204E6EB/f:Program.cs" caret="3473" fromTop="14" />
+      <File id="CBBFCF44-2B7C-4BAE-A4C0-16991204E6EB/f:Program.cs" caret="3473" fromTop="18" />
+      <File id="CBBFCF44-2B7C-4BAE-A4C0-16991204E6EB/f:Timekeeper.cs" caret="301" fromTop="6" />
+      <File id="CBBFCF44-2B7C-4BAE-A4C0-16991204E6EB/f:Timekeeper.cs" caret="301" fromTop="13" />
+      <File id="CBBFCF44-2B7C-4BAE-A4C0-16991204E6EB/f:Timekeeper.cs" caret="301" fromTop="9" />
+      <File id="CBBFCF44-2B7C-4BAE-A4C0-16991204E6EB/f:Extensions.cs" caret="376" fromTop="17" />
+      <File id="CBBFCF44-2B7C-4BAE-A4C0-16991204E6EB/f:Extensions.cs" caret="190" fromTop="9" />
+      <File id="CBBFCF44-2B7C-4BAE-A4C0-16991204E6EB/f:Program.cs" caret="3473" fromTop="23" />
+      <File id="CBBFCF44-2B7C-4BAE-A4C0-16991204E6EB/f:Program.cs" caret="3473" fromTop="6" />
+      <File id="CBBFCF44-2B7C-4BAE-A4C0-16991204E6EB/f:Program.cs" caret="3473" fromTop="11" />
+      <File id="CBBFCF44-2B7C-4BAE-A4C0-16991204E6EB/f:Timekeeper.cs" caret="270" fromTop="12" />
+      <File id="CBBFCF44-2B7C-4BAE-A4C0-16991204E6EB/f:Timekeeper.cs" caret="129" fromTop="7" />
+      <File id="CBBFCF44-2B7C-4BAE-A4C0-16991204E6EB/f:Extensions.cs" caret="1074" fromTop="18" />
+      <File id="CBBFCF44-2B7C-4BAE-A4C0-16991204E6EB/f:Extensions.cs" caret="752" fromTop="24" />
+      <File id="CBBFCF44-2B7C-4BAE-A4C0-16991204E6EB/f:Extensions.cs" caret="1074" fromTop="17" />
+      <File id="CBBFCF44-2B7C-4BAE-A4C0-16991204E6EB/f:Program.cs" caret="1910" fromTop="22" />
+      <File id="CBBFCF44-2B7C-4BAE-A4C0-16991204E6EB/f:Program.cs" caret="1512" fromTop="28" />
+      <File id="CBBFCF44-2B7C-4BAE-A4C0-16991204E6EB/f:Program.cs" caret="1190" fromTop="17" />
+      <File id="CBBFCF44-2B7C-4BAE-A4C0-16991204E6EB/f:Program.cs" caret="1491" fromTop="26" />
+      <File id="CBBFCF44-2B7C-4BAE-A4C0-16991204E6EB/f:Program.cs" caret="1038" fromTop="21" />
+      <File id="CBBFCF44-2B7C-4BAE-A4C0-16991204E6EB/f:Program.cs" caret="1038" fromTop="9" />
+      <File id="CBBFCF44-2B7C-4BAE-A4C0-16991204E6EB/f:Program.cs" caret="798" fromTop="13" />
+      <File id="CBBFCF44-2B7C-4BAE-A4C0-16991204E6EB/f:Program.cs" caret="718" fromTop="17" />
+      <File id="CBBFCF44-2B7C-4BAE-A4C0-16991204E6EB/f:Program.cs" caret="822" fromTop="21" />
+      <File id="CBBFCF44-2B7C-4BAE-A4C0-16991204E6EB/f:Program.cs" caret="718" fromTop="22" />
+      <File id="CBBFCF44-2B7C-4BAE-A4C0-16991204E6EB/f:Program.cs" caret="350" fromTop="17" />
+      <File id="CBBFCF44-2B7C-4BAE-A4C0-16991204E6EB/f:Program.cs" caret="233" fromTop="4" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.5.8\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="prop" priority="3" />
+      <Item value="int" priority="15" />
+      <Item value="string" priority="10" />
+      <Item value="public" priority="8" />
+      <Item value="void" priority="2" />
+      <Item value="ctor" priority="2" />
+      <Item value="path" priority="0" />
+      <Item value="Directory`0" priority="3" />
+      <Item value="return" priority="20" />
+      <Item value="_path" priority="0" />
+      <Item value="pattern" priority="0" />
+      <Item value="_files" priority="2" />
+      <Item value="false" priority="1" />
+      <Item value="f" priority="1" />
+      <Item value="byte" priority="0" />
+      <Item value="event" priority="0" />
+      <Item value="EventHandler" priority="0" />
+      <Item value="class" priority="1" />
+      <Item value="EventArgs`0" priority="0" />
+      <Item value="FileChangeEventArgs`0" priority="0" />
+      <Item value="new" priority="24" />
+      <Item value="BlobFile" priority="0" />
+      <Item value="List" priority="3" />
+      <Item value="BlobFile`0" priority="3" />
+      <Item value="List&lt;BlobFile&gt;" priority="0" />
+      <Item value="IEnumerable" priority="9" />
+      <Item value="Regex`0" priority="0" />
+      <Item value="null" priority="1" />
+      <Item value="FileAdded" priority="0" />
+      <Item value="Func" priority="16" />
+      <Item value="var" priority="29" />
+      <Item value="double" priority="7" />
+      <Item value="a" priority="2" />
+      <Item value="b" priority="4" />
+      <Item value="cw" priority="15" />
+      <Item value="static" priority="4" />
+      <Item value="Math`0" priority="1" />
+      <Item value="private" priority="4" />
+      <Item value="square" priority="1" />
+      <Item value="true" priority="3" />
+      <Item value="foreach" priority="7" />
+      <Item value="in" priority="3" />
+      <Item value="numbers" priority="6" />
+      <Item value="if" priority="3" />
+      <Item value="IsPrime`0" priority="10" />
+      <Item value="result" priority="3" />
+      <Item value="number" priority="11" />
+      <Item value="List&lt;int&gt;" priority="0" />
+      <Item value="FindPrimes`0" priority="2" />
+      <Item value="bool" priority="1" />
+      <Item value="IsOdd`0" priority="0" />
+      <Item value="test" priority="0" />
+      <Item value="yield return" priority="1" />
+      <Item value="GetRandomNumbers`0" priority="3" />
+      <Item value="Random`0" priority="0" />
+      <Item value="Random" priority="0" />
+      <Item value="while" priority="0" />
+      <Item value="rand" priority="0" />
+      <Item value="factorial" priority="2" />
+      <Item value="n" priority="1" />
+      <Item value="Stopwatch" priority="0" />
+      <Item value="Action`0" priority="1" />
+      <Item value="Stopwatch`0" priority="1" />
+      <Item value="watch" priority="2" />
+      <Item value="action" priority="0" />
+      <Item value="System" priority="0" />
+      <Item value="Net" priority="0" />
+      <Item value="client" priority="1" />
+      <Item value="Exception`0" priority="0" />
+      <Item value="download" priority="6" />
+      <Item value="T`0" priority="0" />
+      <Item value="default" priority="0" />
+      <Item value="Timekeeper`0" priority="2" />
+      <Item value="timekeeper" priority="2" />
+      <Item value="elapsed" priority="2" />
+      <Item value="WebClient`0" priority="0" />
+      <Item value="this" priority="0" />
+      <Item value="TResult`0" priority="5" />
+      <Item value="TParam1`0" priority="3" />
+      <Item value="func" priority="6" />
+      <Item value="parameter" priority="4" />
+      <Item value="Uri" priority="0" />
+      <Item value="p1" priority="0" />
+      <Item value="curriedDownload" priority="0" />
+      <Item value="downloadCurry" priority="0" />
+      <Item value="primes" priority="0" />
+      <Item value="All`1" priority="1" />
+      <Item value="Enumerable`0" priority="0" />
+      <Item value="Task&lt;IEnumerable&lt;int&gt;&gt;" priority="4" />
+      <Item value="task" priority="9" />
+      <Item value="IList" priority="0" />
+      <Item value="FindLargePrimes`0" priority="8" />
+      <Item value="Task`0" priority="6" />
+      <Item value="tasks" priority="7" />
+      <Item value="NewsStyleUriParser`0" priority="0" />
+      <Item value="t" priority="3" />
+      <Item value="Parallel`0" priority="3" />
+      <Item value="FindLargePrimesInParallel`0" priority="2" />
+      <Item value="start" priority="2" />
+      <Item value="end" priority="1" />
+      <Item value="antecedent" priority="1" />
+      <Item value="Result" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Directory">
+      <Item value="GetFiles`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToArray`1" priority="0" />
+      <Item value="Take`1" priority="1" />
+      <Item value="Find`0" priority="0" />
+      <Item value="ToList`1" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Sqrt`0" priority="2" />
+      <Item value="Pow`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="4" />
+      <Item value="ForEach`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Indexer" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Random">
+      <Item value="Next`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Diagnostics.Stopwatch">
+      <Item value="Start`0" priority="0" />
+      <Item value="Elapsed" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.WebClient">
+      <Item value="DownloadData`0" priority="0" />
+      <Item value="DownloadString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Action">
+      <Item value="WithRetry`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:csharp_func.Timekeeper">
+      <Item value="Measure`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Func`1">
+      <Item value="WithRetry`1" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Func`2">
+      <Item value="Curry`2" priority="4" />
+      <Item value="Partial`2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Linq.Enumerable">
+      <Item value="Range`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Tasks.Task`1">
+      <Item value="Start`0" priority="5" />
+      <Item value="Wait`0" priority="2" />
+      <Item value="ContinueWith`1" priority="2" />
+      <Item value="Result" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Tasks.Parallel">
+      <Item value="Invoke`0" priority="2" />
+      <Item value="ForEach`2" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

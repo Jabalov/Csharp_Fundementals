@@ -1,0 +1,12 @@
+c:\temp\csharp-oop\before\csharp-oop\csharp-oop\bin\Debug\msft.csv
+c:\temp\csharp-oop\before\csharp-oop\csharp-oop\bin\Debug\csharp-oop.exe
+c:\temp\csharp-oop\before\csharp-oop\csharp-oop\bin\Debug\csharp-oop.pdb
+c:\temp\csharp-oop\before\csharp-oop\csharp-oop\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\temp\csharp-oop\before\csharp-oop\csharp-oop\obj\x86\Debug\csharp-oop.exe
+c:\temp\csharp-oop\before\csharp-oop\csharp-oop\obj\x86\Debug\csharp-oop.pdb
+C:\temp\csharp-oop\after\csharp-oop\csharp-oop\obj\x86\Debug\csharp-oop.exe
+C:\temp\csharp-oop\after\csharp-oop\csharp-oop\obj\x86\Debug\csharp-oop.pdb
+C:\temp\csharp-oop\after\csharp-oop\csharp-oop\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\temp\csharp-oop\after\csharp-oop\csharp-oop\bin\Debug\msft.csv
+C:\temp\csharp-oop\after\csharp-oop\csharp-oop\bin\Debug\csharp-oop.exe
+C:\temp\csharp-oop\after\csharp-oop\csharp-oop\bin\Debug\csharp-oop.pdb

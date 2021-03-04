@@ -1,0 +1,139 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="8B62BA87-92FA-4D31-8D4E-E6650D711A7B/d:v4/f:Program.cs" caret="1481" fromTop="0" />
+      <File id="8B62BA87-92FA-4D31-8D4E-E6650D711A7B/d:v5/f:Program.cs" caret="136" fromTop="8" />
+      <File id="8B62BA87-92FA-4D31-8D4E-E6650D711A7B/f:Program.cs" caret="4648" fromTop="13" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="8B62BA87-92FA-4D31-8D4E-E6650D711A7B/f:Program.cs" caret="5398" fromTop="19" />
+      <File id="8B62BA87-92FA-4D31-8D4E-E6650D711A7B/f:Program.cs" caret="5398" fromTop="25" />
+      <File id="8B62BA87-92FA-4D31-8D4E-E6650D711A7B/f:Program.cs" caret="5398" fromTop="23" />
+      <File id="8B62BA87-92FA-4D31-8D4E-E6650D711A7B/f:Program.cs" caret="5398" fromTop="13" />
+      <File id="8B62BA87-92FA-4D31-8D4E-E6650D711A7B/f:Program.cs" caret="5398" fromTop="22" />
+      <File id="8B62BA87-92FA-4D31-8D4E-E6650D711A7B/f:Program.cs" caret="0" fromTop="0" />
+      <File id="8B62BA87-92FA-4D31-8D4E-E6650D711A7B/f:Program.cs" caret="5398" fromTop="5" />
+      <File id="8B62BA87-92FA-4D31-8D4E-E6650D711A7B/f:Program.cs" caret="132" fromTop="7" />
+      <File id="8B62BA87-92FA-4D31-8D4E-E6650D711A7B/d:v5/f:Program.cs" caret="3575" fromTop="20" />
+      <File id="8B62BA87-92FA-4D31-8D4E-E6650D711A7B/d:v5/f:Program.cs" caret="1536" fromTop="13" />
+      <File id="8B62BA87-92FA-4D31-8D4E-E6650D711A7B/d:v5/f:Program.cs" caret="1468" fromTop="10" />
+      <File id="8B62BA87-92FA-4D31-8D4E-E6650D711A7B/f:Program.cs" caret="5398" fromTop="28" />
+      <File id="8B62BA87-92FA-4D31-8D4E-E6650D711A7B/f:Program.cs" caret="1520" fromTop="15" />
+      <File id="8B62BA87-92FA-4D31-8D4E-E6650D711A7B/f:Program.cs" caret="4756" fromTop="25" />
+      <File id="8B62BA87-92FA-4D31-8D4E-E6650D711A7B/f:Program.cs" caret="4425" fromTop="17" />
+      <File id="8B62BA87-92FA-4D31-8D4E-E6650D711A7B/f:Program.cs" caret="4227" fromTop="20" />
+      <File id="8B62BA87-92FA-4D31-8D4E-E6650D711A7B/f:Program.cs" caret="3980" fromTop="4" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.5.8\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="int" priority="4" />
+      <Item value="new" priority="9" />
+      <Item value="List" priority="5" />
+      <Item value="List&lt;int&gt;" priority="0" />
+      <Item value="DateTime`0" priority="3" />
+      <Item value="List&lt;DateTime&gt;" priority="0" />
+      <Item value="var" priority="5" />
+      <Item value="FileStyleUriParser`0" priority="1" />
+      <Item value="args" priority="4" />
+      <Item value="string" priority="1" />
+      <Item value="ear" priority="0" />
+      <Item value="for" priority="1" />
+      <Item value="i" priority="30" />
+      <Item value="lines" priority="1" />
+      <Item value="Length" priority="0" />
+      <Item value="data" priority="8" />
+      <Item value="open" priority="2" />
+      <Item value="decimal" priority="9" />
+      <Item value="high" priority="3" />
+      <Item value="date" priority="2" />
+      <Item value="if" priority="1" />
+      <Item value="close" priority="17" />
+      <Item value="low" priority="0" />
+      <Item value="cw" priority="2" />
+      <Item value="Red" priority="0" />
+      <Item value="Console`0" priority="0" />
+      <Item value="Green" priority="0" />
+      <Item value="public" priority="4" />
+      <Item value="class" priority="1" />
+      <Item value="prop" priority="4" />
+      <Item value="Quote`0" priority="4" />
+      <Item value="ctor" priority="1" />
+      <Item value="IEnumerable" priority="1" />
+      <Item value="_fileName" priority="0" />
+      <Item value="from" priority="0" />
+      <Item value="in" priority="0" />
+      <Item value="select" priority="0" />
+      <Item value="return" priority="0" />
+      <Item value="let" priority="0" />
+      <Item value="line" priority="0" />
+      <Item value="Date" priority="0" />
+      <Item value="Open" priority="0" />
+      <Item value="Low" priority="0" />
+      <Item value="Close" priority="0" />
+      <Item value="QuoteLoader`0" priority="0" />
+      <Item value="loader" priority="1" />
+      <Item value="quotes" priority="0" />
+      <Item value="IList" priority="0" />
+      <Item value="void" priority="0" />
+      <Item value="_quotes" priority="4" />
+      <Item value="where" priority="0" />
+      <Item value="IDataLoader`0" priority="0" />
+      <Item value="StockQuoteCsvParser`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="Open`0" priority="1" />
+      <Item value="ReadAllLines`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Split`0" priority="1" />
+      <Item value="Length" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="2" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Parse`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Decimal">
+      <Item value="Parse`0" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="ToBinary`0" priority="0" />
+      <Item value="ToLongDateString`0" priority="1" />
+      <Item value="ToShortDateString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="ForegroundColor" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Count`1" priority="0" />
+      <Item value="ToList`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:csharp_oop.v2.Quote">
+      <Item value="Open" priority="1" />
+      <Item value="High" priority="1" />
+      <Item value="Close" priority="1" />
+      <Item value="Low" priority="1" />
+      <Item value="Date" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
